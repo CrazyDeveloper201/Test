@@ -1,0 +1,257 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<androidx.cardview.widget.CardView
+		android:id="@+id/cardview1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_margin="8dp"
+		app:contentPadding="2dp"
+		app:cardBackgroundColor="#8569AC"
+		app:cardElevation="5dp"
+		app:cardCornerRadius="20dp">
+		<LinearLayout
+			android:id="@+id/linear1"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:background="#FFFFFF"
+			android:orientation="vertical">
+			<TextView
+				android:id="@+id/textview1"
+				android:focusable="false"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="10dp"
+				android:text="Light Setting "
+				android:textSize="18sp"
+				android:textStyle="bold"
+				android:textColor="#8569AC"
+				android:layout_gravity="center_horizontal|center_vertical" />
+			<LinearLayout
+				android:id="@+id/linear_line"
+				android:layout_width="match_parent"
+				android:layout_height="2dp"
+				android:padding="8dp"
+				android:background="#8569AC"
+				android:orientation="horizontal" />
+			<LinearLayout
+				android:id="@+id/linear4"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical"
+				android:layout_weight="1">
+				<TextView
+					android:id="@+id/textview3"
+					android:focusable="false"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:text="Brightness Control"
+					android:textSize="14sp"
+					android:textStyle="bold"
+					android:textColor="#8569AC" />
+				<SeekBar
+					android:id="@+id/seekbar1"
+					android:focusable="false"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="10dp"
+					android:layout_marginRight="10dp"
+					android:layout_marginBottom="10dp"
+					android:padding="8dp"
+					android:background="#F5F5F5"
+					android:progress="100" />
+				<LinearLayout
+					android:id="@+id/linear_line1"
+					android:layout_width="match_parent"
+					android:layout_height="2dp"
+					android:padding="8dp"
+					android:background="#8569AC"
+					android:orientation="horizontal" />
+				<TextView
+					android:id="@+id/textview4"
+					android:focusable="false"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginTop="8dp"
+					android:padding="8dp"
+					android:text="Selected Color "
+					android:textSize="14sp"
+					android:textStyle="bold"
+					android:textColor="#8569AC" />
+				<androidx.recyclerview.widget.RecyclerView
+					android:id="@+id/recyclerview1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginLeft="8dp"
+					android:layout_marginRight="8dp"
+					android:padding="4dp"
+					android:background="#F5F5F5" />
+				<LinearLayout
+					android:id="@+id/linear14"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginTop="8dp"
+					android:padding="8dp"
+					android:gravity="center_horizontal|center_vertical"
+					android:orientation="horizontal">
+					<TextView
+						android:id="@+id/textview5"
+						android:focusable="false"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:padding="8dp"
+						android:text="Color Picker"
+						android:textSize="14sp"
+						android:textStyle="bold"
+						android:textColor="#8569AC"
+						android:layout_weight="1" />
+					<ImageView
+						android:id="@+id/imageview_color"
+						android:focusable="false"
+						android:layout_width="35dp"
+						android:layout_height="35dp"
+						android:layout_marginRight="8dp"
+						android:src="@drawable/ic_color_lens_black"
+						android:scaleType="fitCenter" />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear15"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginTop="8dp"
+					android:padding="8dp"
+					android:orientation="horizontal">
+					<TextView
+						android:id="@+id/textview6"
+						android:focusable="false"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:paddingLeft="8dp"
+						android:paddingTop="8dp"
+						android:paddingRight="20dp"
+						android:paddingBottom="8dp"
+						android:text="Custom Color"
+						android:textSize="14sp"
+						android:textStyle="bold"
+						android:textColor="#8569AC" />
+					<TextView
+						android:id="@+id/textview7"
+						android:focusable="false"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="#"
+						android:textSize="14sp"
+						android:textColor="#000000" />
+					<EditText
+						android:id="@+id/edittext1"
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:padding="4dp"
+						android:background="#F5F5F5"
+						android:gravity="left|center_vertical"
+						android:textSize="16sp"
+						android:textColor="#000000"
+						android:hint="Enter Color Code....."
+						android:textColorHint="#607D8B"
+						android:singleLine="true"
+						android:imeOptions="actionDone"
+						android:layout_gravity="left|center_vertical"
+						android:focusableInTouchMode="true"/> />
+				</LinearLayout>
+				<LinearLayout
+					android:id="@+id/linear_line2"
+					android:layout_width="match_parent"
+					android:layout_height="2dp"
+					android:layout_marginTop="8dp"
+					android:layout_marginBottom="8dp"
+					android:padding="8dp"
+					android:background="#8569AC"
+					android:orientation="horizontal" />
+				<LinearLayout
+					android:id="@+id/linear16"
+					android:layout_width="match_parent"
+					android:layout_height="40dp"
+					android:padding="8dp"
+					android:orientation="horizontal" />
+			</LinearLayout>
+			<androidx.cardview.widget.CardView
+				android:id="@+id/cardview3"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="8dp"
+				app:cardBackgroundColor="#8569AC"
+				android:gravity="right|bottom"
+				android:layout_gravity="right|bottom"
+				app:cardElevation="0dp"
+				app:cardCornerRadius="10dp">
+				<LinearLayout
+					android:id="@+id/linear17"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:background="#8569AC"
+					android:gravity="right|center_vertical"
+					android:orientation="horizontal"
+					android:layout_gravity="right|center_vertical">
+					<TextView
+						android:id="@+id/textview_c"
+						android:focusable="false"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:paddingLeft="30dp"
+						android:paddingTop="8dp"
+						android:paddingRight="30dp"
+						android:paddingBottom="8dp"
+						android:background="#E0E0E0"
+						android:gravity="center_horizontal|center_vertical"
+						android:text="Cancel"
+						android:textSize="16sp"
+						android:textStyle="bold"
+						android:textColor="#8569AC"
+						android:layout_gravity="center_horizontal|center_vertical" />
+				</LinearLayout>
+			</androidx.cardview.widget.CardView>
+			<androidx.cardview.widget.CardView
+				android:id="@+id/cardview2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="8dp"
+				android:layout_marginRight="8dp"
+				android:layout_marginBottom="8dp"
+				app:cardBackgroundColor="#8569AC"
+				android:gravity="right|bottom"
+				android:layout_gravity="right|bottom"
+				app:cardElevation="0dp"
+				app:cardCornerRadius="10dp">
+				<LinearLayout
+					android:id="@+id/linear3"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:background="#8569AC"
+					android:gravity="right|center_vertical"
+					android:orientation="horizontal"
+					android:layout_gravity="right|center_vertical">
+					<TextView
+						android:id="@+id/textview_btn"
+						android:focusable="false"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:paddingLeft="30dp"
+						android:paddingTop="8dp"
+						android:paddingRight="30dp"
+						android:paddingBottom="8dp"
+						android:gravity="center_horizontal|center_vertical"
+						android:text="Saved Setting"
+						android:textSize="16sp"
+						android:textStyle="bold"
+						android:textColor="#FFFFFF"
+						android:layout_gravity="center_horizontal|center_vertical" />
+				</LinearLayout>
+			</androidx.cardview.widget.CardView>
+		</LinearLayout>
+	</androidx.cardview.widget.CardView>
+</LinearLayout>

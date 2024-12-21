@@ -1,0 +1,1174 @@
+# compiler: R8
+# compiler_version: 8.5.35
+# min_api: 21
+# common_typos_disable
+# {"id":"com.android.tools.r8.mapping","version":"2.2"}
+# pg_map_id: 7e68b75
+# pg_map_hash: SHA-256 7e68b75163138bea7970a4459a540c6bb3e66b96c3531a8af5d9ea0ea41f402e
+androidx.appcompat.R -> androidx.appcompat.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$anim -> androidx.appcompat.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$animator -> androidx.appcompat.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$array -> androidx.appcompat.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$attr -> androidx.appcompat.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$bool -> androidx.appcompat.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$color -> androidx.appcompat.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$dimen -> androidx.appcompat.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$drawable -> androidx.appcompat.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$id -> androidx.appcompat.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$integer -> androidx.appcompat.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$interpolator -> androidx.appcompat.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$layout -> androidx.appcompat.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$menu -> androidx.appcompat.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$mipmap -> androidx.appcompat.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$plurals -> androidx.appcompat.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$string -> androidx.appcompat.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$style -> androidx.appcompat.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$styleable -> androidx.appcompat.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.R$xml -> androidx.appcompat.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R -> androidx.appcompat.resources.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$anim -> androidx.appcompat.resources.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$animator -> androidx.appcompat.resources.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$array -> androidx.appcompat.resources.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$attr -> androidx.appcompat.resources.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$bool -> androidx.appcompat.resources.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$color -> androidx.appcompat.resources.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$dimen -> androidx.appcompat.resources.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$drawable -> androidx.appcompat.resources.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$id -> androidx.appcompat.resources.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$integer -> androidx.appcompat.resources.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$interpolator -> androidx.appcompat.resources.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$layout -> androidx.appcompat.resources.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$menu -> androidx.appcompat.resources.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$mipmap -> androidx.appcompat.resources.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$plurals -> androidx.appcompat.resources.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$string -> androidx.appcompat.resources.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$style -> androidx.appcompat.resources.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$styleable -> androidx.appcompat.resources.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.appcompat.resources.R$xml -> androidx.appcompat.resources.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R -> androidx.cardview.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$anim -> androidx.cardview.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$animator -> androidx.cardview.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$array -> androidx.cardview.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$attr -> androidx.cardview.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$bool -> androidx.cardview.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$color -> androidx.cardview.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$dimen -> androidx.cardview.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$drawable -> androidx.cardview.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$id -> androidx.cardview.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$integer -> androidx.cardview.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$interpolator -> androidx.cardview.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$layout -> androidx.cardview.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$menu -> androidx.cardview.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$mipmap -> androidx.cardview.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$plurals -> androidx.cardview.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$string -> androidx.cardview.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$style -> androidx.cardview.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$styleable -> androidx.cardview.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.cardview.R$xml -> androidx.cardview.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R -> androidx.constraintlayout.widget.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$anim -> androidx.constraintlayout.widget.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$animator -> androidx.constraintlayout.widget.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$array -> androidx.constraintlayout.widget.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$attr -> androidx.constraintlayout.widget.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$bool -> androidx.constraintlayout.widget.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$color -> androidx.constraintlayout.widget.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$dimen -> androidx.constraintlayout.widget.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$drawable -> androidx.constraintlayout.widget.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$id -> androidx.constraintlayout.widget.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$integer -> androidx.constraintlayout.widget.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$interpolator -> androidx.constraintlayout.widget.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$layout -> androidx.constraintlayout.widget.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$menu -> androidx.constraintlayout.widget.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$mipmap -> androidx.constraintlayout.widget.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$plurals -> androidx.constraintlayout.widget.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$string -> androidx.constraintlayout.widget.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$style -> androidx.constraintlayout.widget.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$styleable -> androidx.constraintlayout.widget.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.constraintlayout.widget.R$xml -> androidx.constraintlayout.widget.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R -> androidx.coordinatorlayout.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$anim -> androidx.coordinatorlayout.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$animator -> androidx.coordinatorlayout.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$array -> androidx.coordinatorlayout.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$attr -> androidx.coordinatorlayout.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$bool -> androidx.coordinatorlayout.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$color -> androidx.coordinatorlayout.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$dimen -> androidx.coordinatorlayout.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$drawable -> androidx.coordinatorlayout.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$id -> androidx.coordinatorlayout.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$integer -> androidx.coordinatorlayout.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$interpolator -> androidx.coordinatorlayout.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$layout -> androidx.coordinatorlayout.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$menu -> androidx.coordinatorlayout.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$mipmap -> androidx.coordinatorlayout.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$plurals -> androidx.coordinatorlayout.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$string -> androidx.coordinatorlayout.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$style -> androidx.coordinatorlayout.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$styleable -> androidx.coordinatorlayout.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.coordinatorlayout.R$xml -> androidx.coordinatorlayout.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R -> androidx.core.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$anim -> androidx.core.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$animator -> androidx.core.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$array -> androidx.core.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$attr -> androidx.core.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$bool -> androidx.core.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$color -> androidx.core.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$dimen -> androidx.core.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$drawable -> androidx.core.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$id -> androidx.core.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$integer -> androidx.core.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$interpolator -> androidx.core.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$layout -> androidx.core.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$menu -> androidx.core.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$mipmap -> androidx.core.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$plurals -> androidx.core.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$string -> androidx.core.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$style -> androidx.core.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$styleable -> androidx.core.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.core.R$xml -> androidx.core.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R -> androidx.drawerlayout.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$anim -> androidx.drawerlayout.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$animator -> androidx.drawerlayout.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$array -> androidx.drawerlayout.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$attr -> androidx.drawerlayout.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$bool -> androidx.drawerlayout.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$color -> androidx.drawerlayout.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$dimen -> androidx.drawerlayout.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$drawable -> androidx.drawerlayout.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$id -> androidx.drawerlayout.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$integer -> androidx.drawerlayout.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$interpolator -> androidx.drawerlayout.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$layout -> androidx.drawerlayout.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$menu -> androidx.drawerlayout.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$mipmap -> androidx.drawerlayout.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$plurals -> androidx.drawerlayout.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$string -> androidx.drawerlayout.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$style -> androidx.drawerlayout.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$styleable -> androidx.drawerlayout.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.drawerlayout.R$xml -> androidx.drawerlayout.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R -> androidx.fragment.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$anim -> androidx.fragment.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$animator -> androidx.fragment.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$array -> androidx.fragment.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$attr -> androidx.fragment.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$bool -> androidx.fragment.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$color -> androidx.fragment.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$dimen -> androidx.fragment.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$drawable -> androidx.fragment.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$id -> androidx.fragment.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$integer -> androidx.fragment.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$interpolator -> androidx.fragment.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$layout -> androidx.fragment.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$menu -> androidx.fragment.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$mipmap -> androidx.fragment.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$plurals -> androidx.fragment.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$string -> androidx.fragment.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$style -> androidx.fragment.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$styleable -> androidx.fragment.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.fragment.R$xml -> androidx.fragment.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R -> androidx.lifecycle.runtime.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$anim -> androidx.lifecycle.runtime.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$animator -> androidx.lifecycle.runtime.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$array -> androidx.lifecycle.runtime.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$attr -> androidx.lifecycle.runtime.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$bool -> androidx.lifecycle.runtime.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$color -> androidx.lifecycle.runtime.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$dimen -> androidx.lifecycle.runtime.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$drawable -> androidx.lifecycle.runtime.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$id -> androidx.lifecycle.runtime.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$integer -> androidx.lifecycle.runtime.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$interpolator -> androidx.lifecycle.runtime.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$layout -> androidx.lifecycle.runtime.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$menu -> androidx.lifecycle.runtime.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$mipmap -> androidx.lifecycle.runtime.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$plurals -> androidx.lifecycle.runtime.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$string -> androidx.lifecycle.runtime.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$style -> androidx.lifecycle.runtime.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$styleable -> androidx.lifecycle.runtime.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.runtime.R$xml -> androidx.lifecycle.runtime.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R -> androidx.lifecycle.viewmodel.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$anim -> androidx.lifecycle.viewmodel.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$animator -> androidx.lifecycle.viewmodel.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$array -> androidx.lifecycle.viewmodel.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$attr -> androidx.lifecycle.viewmodel.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$bool -> androidx.lifecycle.viewmodel.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$color -> androidx.lifecycle.viewmodel.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$dimen -> androidx.lifecycle.viewmodel.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$drawable -> androidx.lifecycle.viewmodel.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$id -> androidx.lifecycle.viewmodel.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$integer -> androidx.lifecycle.viewmodel.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$interpolator -> androidx.lifecycle.viewmodel.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$layout -> androidx.lifecycle.viewmodel.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$menu -> androidx.lifecycle.viewmodel.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$mipmap -> androidx.lifecycle.viewmodel.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$plurals -> androidx.lifecycle.viewmodel.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$string -> androidx.lifecycle.viewmodel.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$style -> androidx.lifecycle.viewmodel.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$styleable -> androidx.lifecycle.viewmodel.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.lifecycle.viewmodel.R$xml -> androidx.lifecycle.viewmodel.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R -> androidx.recyclerview.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$anim -> androidx.recyclerview.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$animator -> androidx.recyclerview.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$array -> androidx.recyclerview.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$attr -> androidx.recyclerview.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$bool -> androidx.recyclerview.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$color -> androidx.recyclerview.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$dimen -> androidx.recyclerview.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$drawable -> androidx.recyclerview.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$id -> androidx.recyclerview.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$integer -> androidx.recyclerview.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$interpolator -> androidx.recyclerview.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$layout -> androidx.recyclerview.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$menu -> androidx.recyclerview.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$mipmap -> androidx.recyclerview.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$plurals -> androidx.recyclerview.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$string -> androidx.recyclerview.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$style -> androidx.recyclerview.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$styleable -> androidx.recyclerview.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.recyclerview.R$xml -> androidx.recyclerview.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R -> androidx.savedstate.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$anim -> androidx.savedstate.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$animator -> androidx.savedstate.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$array -> androidx.savedstate.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$attr -> androidx.savedstate.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$bool -> androidx.savedstate.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$color -> androidx.savedstate.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$dimen -> androidx.savedstate.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$drawable -> androidx.savedstate.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$id -> androidx.savedstate.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$integer -> androidx.savedstate.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$interpolator -> androidx.savedstate.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$layout -> androidx.savedstate.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$menu -> androidx.savedstate.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$mipmap -> androidx.savedstate.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$plurals -> androidx.savedstate.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$string -> androidx.savedstate.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$style -> androidx.savedstate.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$styleable -> androidx.savedstate.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.savedstate.R$xml -> androidx.savedstate.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R -> androidx.startup.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$anim -> androidx.startup.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$animator -> androidx.startup.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$array -> androidx.startup.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$attr -> androidx.startup.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$bool -> androidx.startup.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$color -> androidx.startup.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$dimen -> androidx.startup.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$drawable -> androidx.startup.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$id -> androidx.startup.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$integer -> androidx.startup.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$interpolator -> androidx.startup.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$layout -> androidx.startup.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$menu -> androidx.startup.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$mipmap -> androidx.startup.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$plurals -> androidx.startup.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$string -> androidx.startup.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$style -> androidx.startup.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$styleable -> androidx.startup.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.startup.R$xml -> androidx.startup.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R -> androidx.swiperefreshlayout.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$anim -> androidx.swiperefreshlayout.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$animator -> androidx.swiperefreshlayout.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$array -> androidx.swiperefreshlayout.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$attr -> androidx.swiperefreshlayout.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$bool -> androidx.swiperefreshlayout.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$color -> androidx.swiperefreshlayout.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$dimen -> androidx.swiperefreshlayout.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$drawable -> androidx.swiperefreshlayout.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$id -> androidx.swiperefreshlayout.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$integer -> androidx.swiperefreshlayout.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$interpolator -> androidx.swiperefreshlayout.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$layout -> androidx.swiperefreshlayout.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$menu -> androidx.swiperefreshlayout.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$mipmap -> androidx.swiperefreshlayout.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$plurals -> androidx.swiperefreshlayout.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$string -> androidx.swiperefreshlayout.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$style -> androidx.swiperefreshlayout.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$styleable -> androidx.swiperefreshlayout.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.swiperefreshlayout.R$xml -> androidx.swiperefreshlayout.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R -> androidx.transition.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$anim -> androidx.transition.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$animator -> androidx.transition.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$array -> androidx.transition.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$attr -> androidx.transition.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$bool -> androidx.transition.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$color -> androidx.transition.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$dimen -> androidx.transition.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$drawable -> androidx.transition.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$id -> androidx.transition.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$integer -> androidx.transition.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$interpolator -> androidx.transition.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$layout -> androidx.transition.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$menu -> androidx.transition.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$mipmap -> androidx.transition.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$plurals -> androidx.transition.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$string -> androidx.transition.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$style -> androidx.transition.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$styleable -> androidx.transition.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.transition.R$xml -> androidx.transition.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R -> androidx.viewpager2.R:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$anim -> androidx.viewpager2.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$animator -> androidx.viewpager2.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$array -> androidx.viewpager2.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$attr -> androidx.viewpager2.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$bool -> androidx.viewpager2.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$color -> androidx.viewpager2.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$dimen -> androidx.viewpager2.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$drawable -> androidx.viewpager2.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$id -> androidx.viewpager2.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$integer -> androidx.viewpager2.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$interpolator -> androidx.viewpager2.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$layout -> androidx.viewpager2.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$menu -> androidx.viewpager2.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$mipmap -> androidx.viewpager2.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$plurals -> androidx.viewpager2.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$string -> androidx.viewpager2.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$style -> androidx.viewpager2.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$styleable -> androidx.viewpager2.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+androidx.viewpager2.R$xml -> androidx.viewpager2.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R -> com.bumptech.glide.R:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$anim -> com.bumptech.glide.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$animator -> com.bumptech.glide.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$array -> com.bumptech.glide.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$attr -> com.bumptech.glide.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$bool -> com.bumptech.glide.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$color -> com.bumptech.glide.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$dimen -> com.bumptech.glide.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$drawable -> com.bumptech.glide.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$id -> com.bumptech.glide.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$integer -> com.bumptech.glide.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$interpolator -> com.bumptech.glide.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$layout -> com.bumptech.glide.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$menu -> com.bumptech.glide.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$mipmap -> com.bumptech.glide.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$plurals -> com.bumptech.glide.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$string -> com.bumptech.glide.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$style -> com.bumptech.glide.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$styleable -> com.bumptech.glide.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+com.bumptech.glide.R$xml -> com.bumptech.glide.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+com.github.megatronking.stringfog.xor.StringFogImpl -> m:
+# {"id":"sourceFile","fileName":"StringFogImpl.java"}
+    1:4:void <init>():0:0 -> <init>
+    1:12:java.lang.String decrypt(java.lang.String):0:0 -> a
+    2:31:java.lang.String decrypt(java.lang.String,java.lang.String):0:0 -> b
+    1:29:byte[] xor(byte[],java.lang.String):0:0 -> c
+com.google.android.material.R -> com.google.android.material.R:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$anim -> com.google.android.material.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$animator -> com.google.android.material.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$array -> com.google.android.material.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$attr -> com.google.android.material.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$bool -> com.google.android.material.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$color -> com.google.android.material.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$dimen -> com.google.android.material.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$drawable -> com.google.android.material.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$id -> com.google.android.material.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$integer -> com.google.android.material.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$interpolator -> com.google.android.material.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$layout -> com.google.android.material.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$menu -> com.google.android.material.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$mipmap -> com.google.android.material.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$plurals -> com.google.android.material.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$string -> com.google.android.material.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$style -> com.google.android.material.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$styleable -> com.google.android.material.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+com.google.android.material.R$xml -> com.google.android.material.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R -> com.mrudultora.colorpicker.R:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$anim -> com.mrudultora.colorpicker.R$anim:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$animator -> com.mrudultora.colorpicker.R$animator:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$array -> com.mrudultora.colorpicker.R$array:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$attr -> com.mrudultora.colorpicker.R$attr:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$bool -> com.mrudultora.colorpicker.R$bool:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$color -> com.mrudultora.colorpicker.R$color:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$dimen -> com.mrudultora.colorpicker.R$dimen:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$drawable -> com.mrudultora.colorpicker.R$drawable:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$id -> com.mrudultora.colorpicker.R$id:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$integer -> com.mrudultora.colorpicker.R$integer:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$interpolator -> com.mrudultora.colorpicker.R$interpolator:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$layout -> com.mrudultora.colorpicker.R$layout:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$menu -> com.mrudultora.colorpicker.R$menu:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$mipmap -> com.mrudultora.colorpicker.R$mipmap:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$plurals -> com.mrudultora.colorpicker.R$plurals:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$string -> com.mrudultora.colorpicker.R$string:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$style -> com.mrudultora.colorpicker.R$style:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$styleable -> com.mrudultora.colorpicker.R$styleable:
+# {"id":"sourceFile","fileName":"R.java"}
+com.mrudultora.colorpicker.R$xml -> com.mrudultora.colorpicker.R$xml:
+# {"id":"sourceFile","fileName":"R.java"}
+screen.flash.light.DebugActivity -> screen.flash.light.DebugActivity:
+# {"id":"sourceFile","fileName":"DebugActivity.java"}
+    java.util.Map exceptionMap -> a
+screen.flash.light.DebugActivity$1 -> screen.flash.light.a:
+# {"id":"sourceFile","fileName":"DebugActivity.java"}
+screen.flash.light.FloatingWindowSetting -> screen.flash.light.FloatingWindowSetting:
+# {"id":"sourceFile","fileName":"FloatingWindowSetting.java"}
+    android.view.WindowManager windowManager -> a
+    android.widget.LinearLayout floatingView -> b
+    android.view.WindowManager$LayoutParams params -> c
+    int screenWidth -> d
+    int screenHeight -> e
+    android.content.ContentResolver contentResolver -> f
+    android.content.SharedPreferences setting -> g
+    android.widget.EditText edittext1 -> h
+    androidx.recyclerview.widget.RecyclerView recyclerview1 -> i
+    screen.flash.light.FloatingWindowSetting$OnDataReturnedListener listener -> j
+      # {"id":"com.android.tools.r8.residualsignature","signature":"La;"}
+    java.util.ArrayList color_list -> k
+    1:1:void access$0(screen.flash.light.FloatingWindowSetting,float):0:0 -> a
+    1:1:void access$1(android.content.ContentResolver):0:0 -> b
+    1:1:android.content.ContentResolver access$2():0:0 -> c
+    1:1:android.view.WindowManager access$3():0:0 -> d
+    1:1:android.widget.LinearLayout access$4():0:0 -> e
+    1:1:android.widget.EditText access$5():0:0 -> f
+    1:3:screen.flash.light.FloatingWindowSetting$OnDataReturnedListener access$6():0:0 -> g
+      # {"id":"com.android.tools.r8.residualsignature","signature":"()La;"}
+    1:1:android.content.SharedPreferences access$7():0:0 -> h
+    1:1:android.view.WindowManager$LayoutParams access$8():0:0 -> i
+    1:1:void adjustFloatingWindowBrightness(float):0:0 -> j
+    1:1:void createFloatingWindow():0:0 -> k
+    1:1:java.lang.String getColor():0:0 -> l
+    1:1:boolean isValidHexColor(java.lang.String):0:0 -> m
+    1:1:void setColor(java.lang.String):0:0 -> n
+    1:13:void startService(android.content.Context,screen.flash.light.FloatingWindowSetting$OnDataReturnedListener):0:0 -> o
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Landroid/content/Context;La;)V"}
+    1:1:void stopService(android.content.Context):0:0 -> p
+screen.flash.light.FloatingWindowSetting$1 -> screen.flash.light.b:
+# {"id":"sourceFile","fileName":"FloatingWindowSetting.java"}
+    screen.flash.light.FloatingWindowSetting this$0 -> a
+screen.flash.light.FloatingWindowSetting$2 -> screen.flash.light.c:
+# {"id":"sourceFile","fileName":"FloatingWindowSetting.java"}
+    screen.flash.light.FloatingWindowSetting this$0 -> a
+screen.flash.light.FloatingWindowSetting$3 -> screen.flash.light.d:
+# {"id":"sourceFile","fileName":"FloatingWindowSetting.java"}
+    screen.flash.light.FloatingWindowSetting this$0 -> a
+    android.widget.SeekBar val$seekbar1 -> b
+screen.flash.light.FloatingWindowSetting$4 -> screen.flash.light.e:
+# {"id":"sourceFile","fileName":"FloatingWindowSetting.java"}
+    screen.flash.light.FloatingWindowSetting this$0 -> a
+screen.flash.light.FloatingWindowSetting$5 -> screen.flash.light.f:
+# {"id":"sourceFile","fileName":"FloatingWindowSetting.java"}
+    float initialX -> a
+    float initialY -> b
+    float initialTouchX -> c
+    float initialTouchY -> d
+    screen.flash.light.FloatingWindowSetting this$0 -> e
+screen.flash.light.FloatingWindowSetting$OnDataReturnedListener -> a:
+# {"id":"sourceFile","fileName":"FloatingWindowSetting.java"}
+    void onDataReturned(java.lang.String,int) -> a
+screen.flash.light.HomeActivity -> screen.flash.light.HomeActivity:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    android.widget.TextView _drawer_textview2 -> A
+    android.widget.LinearLayout _drawer_linear_1 -> B
+    android.widget.LinearLayout _drawer_linear_2 -> C
+    android.widget.LinearLayout _drawer_linear_3 -> D
+    android.widget.LinearLayout _drawer_linear_line -> E
+    android.widget.TextView _drawer_textview6 -> F
+    android.widget.LinearLayout _drawer_linear_4 -> G
+    android.widget.LinearLayout _drawer_linear_5 -> H
+    android.widget.LinearLayout _drawer_linear_6 -> I
+    android.widget.ImageView _drawer_imageview2 -> J
+    android.widget.TextView _drawer_textview3 -> K
+    android.widget.ImageView _drawer_imageview3 -> L
+    android.widget.TextView _drawer_textview4 -> M
+    android.widget.ImageView _drawer_imageview4 -> N
+    android.widget.TextView _drawer_textview5 -> O
+    android.widget.ImageView _drawer_imageview5 -> P
+    android.widget.TextView _drawer_textview7 -> Q
+    android.widget.ImageView _drawer_imageview6 -> R
+    android.widget.TextView _drawer_textview8 -> S
+    android.widget.ImageView _drawer_imageview7 -> T
+    android.widget.TextView _drawer_textview9 -> U
+    android.content.Intent intent -> V
+    android.content.SharedPreferences setting -> W
+    java.util.Map floatingWindowsMap -> X
+    androidx.appcompat.widget.Toolbar _toolbar -> a
+    com.google.android.material.appbar.AppBarLayout _app_bar -> b
+    androidx.coordinatorlayout.widget.CoordinatorLayout _coordinator -> c
+    androidx.drawerlayout.widget.DrawerLayout _drawer -> d
+    double id -> e
+    double number -> f
+    android.widget.LinearLayout linear1 -> g
+    android.widget.LinearLayout linear3 -> h
+    androidx.cardview.widget.CardView cardview3 -> i
+    androidx.cardview.widget.CardView cardview1 -> j
+    androidx.cardview.widget.CardView cardview2 -> k
+    android.widget.LinearLayout linear2 -> l
+    android.widget.ImageView imageview1 -> m
+    android.widget.TextView textview1 -> n
+    android.widget.LinearLayout linear4 -> o
+    android.widget.ImageView imageview2 -> p
+    android.widget.TextView textview2 -> q
+    android.widget.LinearLayout linear5 -> r
+    android.widget.ImageView imageview3 -> s
+    android.widget.TextView textview3 -> t
+    android.widget.LinearLayout _drawer_linear1 -> u
+    android.widget.LinearLayout _drawer_linear2 -> v
+    android.widget.LinearLayout _drawer_linear3 -> w
+    android.widget.LinearLayout _drawer_linear4 -> x
+    android.widget.ImageView _drawer_imageview1 -> y
+    android.widget.TextView _drawer_textview1 -> z
+    1:1:void _DrawerUi():0:0 -> a
+    1:1:void _floatingaWindow():0:0 -> b
+    1:1:void _permission():0:0 -> c
+    1:1:android.content.Intent access$0(screen.flash.light.HomeActivity):0:0 -> d
+    1:1:double access$1(screen.flash.light.HomeActivity):0:0 -> e
+    1:1:android.widget.TextView access$2(screen.flash.light.HomeActivity):0:0 -> f
+    1:1:android.widget.ImageView access$3(screen.flash.light.HomeActivity):0:0 -> g
+    1:1:void access$4(screen.flash.light.HomeActivity,double):0:0 -> h
+    1:1:java.util.Map access$5(screen.flash.light.HomeActivity):0:0 -> i
+    1:1:float getDip(int):0:0 -> j
+    1:1:void initialize(android.os.Bundle):0:0 -> k
+    1:1:void initializeLogic():0:0 -> l
+screen.flash.light.HomeActivity$1 -> screen.flash.light.m:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$10 -> screen.flash.light.g:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$11 -> screen.flash.light.h:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    int x -> a
+    int y -> b
+    screen.flash.light.HomeActivity this$0 -> c
+    android.view.WindowManager$LayoutParams val$windowParams -> d
+    android.view.WindowManager val$_wm_it -> e
+    screen.flash.light.HomeActivity$WindowContentLayout val$_frame_main_it -> f
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lc;"}
+    1:12:void <init>(screen.flash.light.HomeActivity,android.view.WindowManager$LayoutParams,android.view.WindowManager,screen.flash.light.HomeActivity$WindowContentLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/HomeActivity;Landroid/view/WindowManager$LayoutParams;Landroid/view/WindowManager;Lc;)V"}
+screen.flash.light.HomeActivity$12 -> screen.flash.light.k:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+    android.widget.ImageView val$imageview_setting -> b
+    android.view.WindowManager val$_wm_it -> c
+    screen.flash.light.HomeActivity$WindowContentLayout val$_frame_main_it -> d
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lc;"}
+    android.widget.LinearLayout val$linear_bg -> e
+    1:14:void <init>(screen.flash.light.HomeActivity,android.widget.ImageView,android.view.WindowManager,screen.flash.light.HomeActivity$WindowContentLayout,android.widget.LinearLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/HomeActivity;Landroid/widget/ImageView;Landroid/view/WindowManager;Lc;Landroid/widget/LinearLayout;)V"}
+    1:1:screen.flash.light.HomeActivity access$0(screen.flash.light.HomeActivity$12):0:0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/k;)Lscreen/flash/light/HomeActivity;"}
+screen.flash.light.HomeActivity$12$1 -> screen.flash.light.j:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity$12 this$1 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lscreen/flash/light/k;"}
+    android.view.WindowManager val$_wm_it -> b
+    screen.flash.light.HomeActivity$WindowContentLayout val$_frame_main_it -> c
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lc;"}
+    android.widget.LinearLayout val$linear_bg -> d
+    1:12:void <init>(screen.flash.light.HomeActivity$12,android.view.WindowManager,screen.flash.light.HomeActivity$WindowContentLayout,android.widget.LinearLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/k;Landroid/view/WindowManager;Lc;Landroid/widget/LinearLayout;)V"}
+    1:1:screen.flash.light.HomeActivity$12 access$0(screen.flash.light.HomeActivity$12$1):0:0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/j;)Lscreen/flash/light/k;"}
+screen.flash.light.HomeActivity$12$1$1 -> screen.flash.light.i:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity$12$1 this$2 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lscreen/flash/light/j;"}
+    screen.flash.light.HomeActivity$WindowContentLayout val$_frame_main_it -> b
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lc;"}
+    android.widget.LinearLayout val$linear_bg -> c
+    android.view.WindowManager val$_wm_it -> d
+    1:12:void <init>(screen.flash.light.HomeActivity$12$1,screen.flash.light.HomeActivity$WindowContentLayout,android.widget.LinearLayout,android.view.WindowManager):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/j;Lc;Landroid/widget/LinearLayout;Landroid/view/WindowManager;)V"}
+    1:1:void onDataReturned(java.lang.String,int):0:0 -> a
+screen.flash.light.HomeActivity$13 -> screen.flash.light.l:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    boolean keyboardEnabled -> a
+    screen.flash.light.HomeActivity this$0 -> b
+    android.view.WindowManager$LayoutParams val$windowParams -> c
+    android.view.WindowManager val$_wm_it -> d
+    screen.flash.light.HomeActivity$WindowContentLayout val$_frame_main_it -> e
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lc;"}
+    1:15:void <init>(screen.flash.light.HomeActivity,android.view.WindowManager$LayoutParams,android.view.WindowManager,screen.flash.light.HomeActivity$WindowContentLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/HomeActivity;Landroid/view/WindowManager$LayoutParams;Landroid/view/WindowManager;Lc;)V"}
+    1:1:void onFocusChanged(boolean):0:0 -> a
+screen.flash.light.HomeActivity$2 -> screen.flash.light.n:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$3 -> screen.flash.light.o:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$4 -> screen.flash.light.p:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$5 -> screen.flash.light.q:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$6 -> screen.flash.light.s:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$7 -> screen.flash.light.t:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$8 -> screen.flash.light.u:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$9 -> screen.flash.light.v:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity this$0 -> a
+screen.flash.light.HomeActivity$FocusListener -> b:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    void onFocusChanged(boolean) -> a
+screen.flash.light.HomeActivity$WindowContentLayout -> c:
+# {"id":"sourceFile","fileName":"HomeActivity.java"}
+    screen.flash.light.HomeActivity$FocusListener focusListener -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lb;"}
+    screen.flash.light.HomeActivity this$0 -> b
+    1:6:void <init>(screen.flash.light.HomeActivity,android.content.Context):0:0 -> <init>
+    1:26:boolean onInterceptTouchEvent(android.view.MotionEvent):0:0 -> onInterceptTouchEvent
+    1:26:boolean onTouchEvent(android.view.MotionEvent):0:0 -> onTouchEvent
+    1:3:void setFocusListener(screen.flash.light.HomeActivity$FocusListener):0:0 -> setFocusListener
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lb;)V"}
+screen.flash.light.LegendaryTouchListener -> d:
+# {"id":"sourceFile","fileName":"LegendaryTouchListener.java"}
+    int _xDelta -> a
+    int _yDelta -> b
+    android.widget.LinearLayout viewToResize -> c
+    int initialHeight -> d
+    int initialWidth -> e
+    int initialX -> f
+    int initialY -> g
+    int minHeight -> h
+    int minWidth -> i
+    int maxHeight -> j
+    int maxWidth -> k
+    boolean FixedRatio -> l
+    android.util.DisplayMetrics displayMetrics -> m
+    1:1:void <clinit>():0:0 -> <clinit>
+    1:34:void <init>(android.widget.LinearLayout,android.content.Context):0:0 -> <init>
+    1:3:void setMinHeight(int):0:0 -> a
+    1:3:void setMinWidth(int):0:0 -> b
+    1:1:boolean onTouch(android.view.View,android.view.MotionEvent):0:0 -> onTouch
+screen.flash.light.MainActivity -> screen.flash.light.MainActivity:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    com.google.android.material.floatingactionbutton.FloatingActionButton _fab -> a
+    double id -> b
+    java.util.ArrayList list -> c
+    android.widget.LinearLayout linear1 -> d
+    com.google.android.material.button.MaterialButton materialbutton1 -> e
+    com.google.android.material.button.MaterialButton materialbutton2 -> f
+    android.content.Intent i -> g
+    android.content.SharedPreferences setting -> h
+    java.util.Map floatingWindowsMap -> i
+    1:1:void _floatingaWindow():0:0 -> a
+    1:1:void _permission():0:0 -> b
+    1:1:android.widget.LinearLayout access$0(screen.flash.light.MainActivity):0:0 -> c
+    1:1:java.util.Map access$1(screen.flash.light.MainActivity):0:0 -> d
+    1:1:android.content.Intent access$2(screen.flash.light.MainActivity):0:0 -> e
+    1:1:void initialize(android.os.Bundle):0:0 -> f
+    1:1:void initializeLogic():0:0 -> g
+screen.flash.light.MainActivity$1 -> screen.flash.light.w:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity this$0 -> a
+screen.flash.light.MainActivity$2 -> screen.flash.light.x:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity this$0 -> a
+screen.flash.light.MainActivity$3 -> screen.flash.light.z:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity this$0 -> a
+    1:1:screen.flash.light.MainActivity access$0(screen.flash.light.MainActivity$3):0:0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/z;)Lscreen/flash/light/MainActivity;"}
+screen.flash.light.MainActivity$3$1 -> screen.flash.light.y:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity$3 this$1 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lscreen/flash/light/z;"}
+    1:1:void onDataReturned(java.lang.String,int):0:0 -> a
+screen.flash.light.MainActivity$4 -> screen.flash.light.a0:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    int x -> a
+    int y -> b
+    screen.flash.light.MainActivity this$0 -> c
+    android.view.WindowManager$LayoutParams val$windowParams -> d
+    android.view.WindowManager val$_wm_it -> e
+    screen.flash.light.MainActivity$WindowContentLayout val$_frame_main_it -> f
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lf;"}
+    1:12:void <init>(screen.flash.light.MainActivity,android.view.WindowManager$LayoutParams,android.view.WindowManager,screen.flash.light.MainActivity$WindowContentLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/MainActivity;Landroid/view/WindowManager$LayoutParams;Landroid/view/WindowManager;Lf;)V"}
+screen.flash.light.MainActivity$5 -> screen.flash.light.d0:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity this$0 -> a
+    android.widget.ImageView val$imageview_setting -> b
+    android.view.WindowManager val$_wm_it -> c
+    screen.flash.light.MainActivity$WindowContentLayout val$_frame_main_it -> d
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lf;"}
+    android.widget.LinearLayout val$linear_bg -> e
+    1:14:void <init>(screen.flash.light.MainActivity,android.widget.ImageView,android.view.WindowManager,screen.flash.light.MainActivity$WindowContentLayout,android.widget.LinearLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/MainActivity;Landroid/widget/ImageView;Landroid/view/WindowManager;Lf;Landroid/widget/LinearLayout;)V"}
+    1:1:screen.flash.light.MainActivity access$0(screen.flash.light.MainActivity$5):0:0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/d0;)Lscreen/flash/light/MainActivity;"}
+screen.flash.light.MainActivity$5$1 -> screen.flash.light.c0:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity$5 this$1 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lscreen/flash/light/d0;"}
+    android.view.WindowManager val$_wm_it -> b
+    screen.flash.light.MainActivity$WindowContentLayout val$_frame_main_it -> c
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lf;"}
+    android.widget.LinearLayout val$linear_bg -> d
+    1:12:void <init>(screen.flash.light.MainActivity$5,android.view.WindowManager,screen.flash.light.MainActivity$WindowContentLayout,android.widget.LinearLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/d0;Landroid/view/WindowManager;Lf;Landroid/widget/LinearLayout;)V"}
+    1:1:screen.flash.light.MainActivity$5 access$0(screen.flash.light.MainActivity$5$1):0:0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/c0;)Lscreen/flash/light/d0;"}
+screen.flash.light.MainActivity$5$1$1 -> screen.flash.light.b0:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity$5$1 this$2 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lscreen/flash/light/c0;"}
+    screen.flash.light.MainActivity$WindowContentLayout val$_frame_main_it -> b
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lf;"}
+    android.widget.LinearLayout val$linear_bg -> c
+    android.view.WindowManager val$_wm_it -> d
+    1:12:void <init>(screen.flash.light.MainActivity$5$1,screen.flash.light.MainActivity$WindowContentLayout,android.widget.LinearLayout,android.view.WindowManager):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/c0;Lf;Landroid/widget/LinearLayout;Landroid/view/WindowManager;)V"}
+    1:1:void onDataReturned(java.lang.String,int):0:0 -> a
+screen.flash.light.MainActivity$6 -> screen.flash.light.e0:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    boolean keyboardEnabled -> a
+    screen.flash.light.MainActivity this$0 -> b
+    android.view.WindowManager$LayoutParams val$windowParams -> c
+    android.view.WindowManager val$_wm_it -> d
+    screen.flash.light.MainActivity$WindowContentLayout val$_frame_main_it -> e
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lf;"}
+    1:15:void <init>(screen.flash.light.MainActivity,android.view.WindowManager$LayoutParams,android.view.WindowManager,screen.flash.light.MainActivity$WindowContentLayout):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lscreen/flash/light/MainActivity;Landroid/view/WindowManager$LayoutParams;Landroid/view/WindowManager;Lf;)V"}
+    1:1:void onFocusChanged(boolean):0:0 -> a
+screen.flash.light.MainActivity$FocusListener -> e:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    void onFocusChanged(boolean) -> a
+screen.flash.light.MainActivity$WindowContentLayout -> f:
+# {"id":"sourceFile","fileName":"MainActivity.java"}
+    screen.flash.light.MainActivity$FocusListener focusListener -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Le;"}
+    screen.flash.light.MainActivity this$0 -> b
+    1:6:void <init>(screen.flash.light.MainActivity,android.content.Context):0:0 -> <init>
+    1:26:boolean onInterceptTouchEvent(android.view.MotionEvent):0:0 -> onInterceptTouchEvent
+    1:26:boolean onTouchEvent(android.view.MotionEvent):0:0 -> onTouchEvent
+    1:3:void setFocusListener(screen.flash.light.MainActivity$FocusListener):0:0 -> setFocusListener
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Le;)V"}
+screen.flash.light.MyAdapter -> i:
+# {"id":"sourceFile","fileName":"MyAdapter.java"}
+    java.util.ArrayList itemList -> a
+    1:6:void <init>(java.util.ArrayList):0:0 -> <init>
+    1:1:void onBindViewHolder(screen.flash.light.MyAdapter$ViewHolder,int):0:0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Lh;I)V"}
+    1:22:screen.flash.light.MyAdapter$ViewHolder onCreateViewHolder(android.view.ViewGroup,int):0:0 -> b
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Landroid/view/ViewGroup;I)Lh;"}
+    1:1:void setStyle(android.view.View,int,java.lang.String):0:0 -> c
+    1:7:int getItemCount():0:0 -> getItemCount
+    1:6:void onBindViewHolder(androidx.recyclerview.widget.RecyclerView$ViewHolder,int):0:0 -> onBindViewHolder
+    1:5:androidx.recyclerview.widget.RecyclerView$ViewHolder onCreateViewHolder(android.view.ViewGroup,int):0:0 -> onCreateViewHolder
+screen.flash.light.MyAdapter$1 -> g:
+# {"id":"sourceFile","fileName":"MyAdapter.java"}
+    screen.flash.light.MyAdapter this$0 -> a
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Li;"}
+    java.util.HashMap val$currentItem -> b
+    screen.flash.light.MyAdapter$ViewHolder val$holder -> c
+      # {"id":"com.android.tools.r8.residualsignature","signature":"Lh;"}
+    1:1:void <init>(screen.flash.light.MyAdapter,java.util.HashMap,screen.flash.light.MyAdapter$ViewHolder):0:0 -> <init>
+      # {"id":"com.android.tools.r8.residualsignature","signature":"(Li;Ljava/util/HashMap;Lh;)V"}
+    1:1:void onClick(android.view.View):0:0 -> onClick
+screen.flash.light.MyAdapter$ViewHolder -> h:
+# {"id":"sourceFile","fileName":"MyAdapter.java"}
+    android.widget.LinearLayout box -> a
+    1:15:void <init>(android.view.View):0:0 -> <init>
+screen.flash.light.R -> screen.flash.light.R:
+# {"id":"sourceFile","fileName":"R.java"}
+screen.flash.light.SketchApplication -> screen.flash.light.SketchApplication:
+# {"id":"sourceFile","fileName":"SketchApplication.java"}
+    android.content.Context mApplicationContext -> a
+    1:1:android.content.Context getContext():0:0 -> a
+screen.flash.light.SketchApplication$1 -> screen.flash.light.f0:
+# {"id":"sourceFile","fileName":"SketchApplication.java"}
+    screen.flash.light.SketchApplication this$0 -> a
+screen.flash.light.SketchLogger -> k:
+# {"id":"sourceFile","fileName":"SketchLogger.java"}
+    boolean isRunning -> a
+    java.lang.Thread loggerThread -> b
+    1:8:void <clinit>():0:0 -> <clinit>
+    1:3:void access$0(boolean):0:0 -> a
+    1:3:boolean access$1():0:0 -> b
+    1:44:void broadcastLog(java.lang.String):0:0 -> c
+    1:28:void startLogging():0:0 -> d
+screen.flash.light.SketchLogger$1 -> j:
+# {"id":"sourceFile","fileName":"SketchLogger.java"}
+    1:4:void <init>():0:0 -> <init>
+    1:1:void run():0:0 -> run
+screen.flash.light.SketchwareUtil -> l:
+# {"id":"sourceFile","fileName":"SketchwareUtil.java"}
+    1:1:void <clinit>():0:0 -> <clinit>
+    1:18:void hideKeyboard(android.content.Context):0:0 -> a
+    2:9:void showMessage(android.content.Context,java.lang.String):0:0 -> b
